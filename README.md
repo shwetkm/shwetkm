@@ -3,10 +3,7 @@
 <p><em>Data Scientist at <a href="http://www.dataweave.com">DataWeave</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/shwetkm?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-shwet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shwetkm/)](https://www.linkedin.com/in/shwetkm/)
-![GitHub followers](https://img.shields.io/github/followers/shwetkm?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=shwetkm.shwetkm)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
