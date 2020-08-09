@@ -9,7 +9,6 @@
 
 ```python
  shwet = {
-    pronouns: "He" | "Him",
     code: ["Python"],
     askMeAbout: ["Machine Learning", "NLP", "Knowledge Graphs", "Programming", "Cricket", "Music" ],
     technologies: {
